@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Tasks",
+  "description": "Focused, high-velocity task & project manager with List, Kanban, Eisenhower Matrix, Calendar, and Pomodoro focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
